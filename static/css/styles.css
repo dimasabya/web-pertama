@@ -1,0 +1,10 @@
+*,html,body{
+    height: auto;
+    width: auto;
+}
+#myBody{
+    background-image:url(/static/img/mainHeader.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
